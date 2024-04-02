@@ -1,0 +1,10 @@
+body{
+    background-image: url(his\ \(copy\).jpg);
+    background-size: cover;
+    color:  white;
+}
+button{
+    width:150px;
+    height: 65px;
+    font-size:x-large;
+}

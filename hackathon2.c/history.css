@@ -1,0 +1,10 @@
+body{
+    background-image:url(kutub2.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    width: 150px;
+    height: 65px;
+    font-size: x-large;
+}

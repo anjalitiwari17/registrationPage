@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(mp.jpg);
+    background-size: cover;
+}
+    h1{ 
+    font-size: 80px;
+    text-align: center;
+    border-width: 6px;
+}
+h2{
+    border-width: 6px;
+    border-style: solid;
+    width:50rem;
+    text-align: center;
+    position:relative;
+    left: 500px;
+    height: 500px;
+    font-size: x-large;
+    
+    
+}body{ 
+    background-color: rgb(186, 185, 213);
+    
+    
+}
+button{
+    width: 150px;
+    height: 65px;
+    font-size: x-large;
+
+}
+
+#x{
+    font-size: large;
+}
+
+

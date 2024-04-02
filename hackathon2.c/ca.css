@@ -1,0 +1,10 @@
+body{
+    background-image: url(ca.jpeg);
+    background-size: cover;
+}
+button{
+    width: 150px;
+    height: 65px;
+    font-size: x-large;
+
+}
